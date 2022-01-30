@@ -25,7 +25,3 @@ To start observing the modified files
 
 To build for production
 > yarn build
-
-
-# Demo
-> https://makingweb.site/challenge-store/
